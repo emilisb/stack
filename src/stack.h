@@ -46,7 +46,7 @@ public:
         return top();
     }
 
-    bool empty() {
+    bool empty() const {
         return _size == 0;
     }
 

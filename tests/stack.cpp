@@ -1,5 +1,5 @@
 #include "gtest/gtest.h"
-#include "../stack.h"
+#include "../src/stack.h"
 
 typedef stack<int> stint;
 
